@@ -1,0 +1,6 @@
+.content:hover .overview{
+    top: 8rem;
+}
+.overview{
+    transition: all 0.5s;
+}
